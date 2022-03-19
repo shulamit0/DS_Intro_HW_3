@@ -42,5 +42,5 @@ def longest_words(file):
         return "file not found"
 #if the len of file too short also return "file not found"
 
-print(longest_words('C:/python_hw/ex3_text.txt'))
-print(longest_words('C:/python_hw/try2.txt'))
+# print(longest_words('C:/python_hw/ex3_text.txt'))
+# print(longest_words('C:/python_hw/try2.txt'))
